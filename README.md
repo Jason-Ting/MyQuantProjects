@@ -12,4 +12,5 @@ List of notebooks covering an array of quantitative tools, techniques and models
 | 5     | [Portfolio Optimization (W/ Gradient Descent)](https://github.com/Jason-Ting/MyQuantProjects/blob/476064586d22b713e9c8f00a642243efc87979ef/Portfolio%20Optimization%20Techniques.ipynb) 
 | 6     | [Maximum Likelihood Estimation (1st & 2nd Moments)](https://github.com/Jason-Ting/MyQuantProjects/blob/52f9df63e6afed9dfe8f79702b7330d9daa1a65e/Maximum%20Likelihood%20Estimation.ipynb) 
 | 7     | [Fama French Factor Models]() 
+| 8     | [Gaussian PDF & CDF]() 
 
